@@ -9,17 +9,17 @@
                     {
                         "text": "Menu1-1",
                         "link": "/dashboard",
-                        "material-icon": "accessible_forward",
+                        "icon": "accessible_forward",
                         "sub-menus": [
                             {
                                 "text": "Menu1-1-1",
                                 "link": "/dashboard",
-                                "material-icon": "accessible_forward"
+                                "icon": "accessible_forward"
                             },
                             {
                                 "text": "Menu1-1-2",
                                 "link": "/dashboard",
-                                "material-icon": "accessible_forward"
+                                "icon": "accessible_forward"
                             }
                         ]
                     }
@@ -28,12 +28,12 @@
             {
                 "text": "Menu1",
                 "link": "/dashboard",
-                "material-icon": "accessible_forward"
+                "icon": "accessible_forward"
             },
             {
                 "text": "Menu1",
                 "link": "/dashboard",
-                "material-icon": "accessible_forward"
+                "icon": "accessible_forward"
             }
         ],
         "setting-menus": [
